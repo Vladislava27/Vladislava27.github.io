@@ -1,0 +1,41 @@
+html{
+                 background-color:#F0FC09;
+
+}
+#a{
+	border:5px solid #F18CD2;
+	margin:5px;
+                  background-color:#7EEFF4;
+	
+}
+#c{
+	background-color:#B4B6B7;
+                 padding:5px;
+                 width:20%;
+                 float:left;
+                 color:#7EEFF4;
+    
+}
+#d{
+	background-color:#B4B6B7;
+                 padding:5px;
+                 width:45%;
+                float:left;
+                color:#7EEFF4;
+    
+}
+#e{
+              background-color:#B4B6B7;
+              padding:12px;
+              width:32%;
+              float:left;
+              color:#7EEFF4;
+
+ 
+}
+#f{    
+             background-color:#7EEFF4;
+             clear:both;
+             padding:5px;
+
+}
